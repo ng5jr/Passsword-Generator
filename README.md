@@ -6,7 +6,7 @@ It can be used as website or as Google Chrome Extension.
 
 In order to add it as an Extension it only takes a few steps listed below:
 
-1-Fork the projects or download it to your local repository.
+1-Fork the projects or download it to your local repository. /n
 2-Open Google Chrome and go to Settings
 3-Go to "More Tools" and then "Extentions"
 4-On the upper right corner make sure you have "Developer Mode" selected
